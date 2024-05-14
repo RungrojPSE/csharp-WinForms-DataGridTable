@@ -20,6 +20,7 @@ namespace DataGridTable
             InitializeComponent();
         }
 
+        // Create data
         private List<Person> GetPeople()
         {
             var list = new List<Person>();
